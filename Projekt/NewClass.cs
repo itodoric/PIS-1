@@ -7,5 +7,6 @@ namespace Projekt
 {
     class NewClass
     {
+        Console.WriteLine("dasdas");
     }
 }
